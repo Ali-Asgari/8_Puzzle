@@ -1,5 +1,8 @@
 # 8 Puzzle Solver
-Implementations of different algorithms to solve the 8 Puzzle problem, along with a comparison between them. The 8 Puzzle is a sliding puzzle consisting of a 3x3 grid with eight numbered tiles and one empty space. The objective is to rearrange the tiles from a given initial configuration to a goal configuration by sliding them horizontally or vertically into the empty space.
+Implementations of different algorithms to solve the 8 Puzzle problem, along with a comparison between them. The 8 Puzzle is a sliding puzzle consisting of a 3x3 grid with eight numbered (1 to 8) tiles and one empty space (zero).
+
+![alt text](./EX1.png)
+
 ## Algorithms Implemented
 
 The following algorithms have been implemented to solve the 8 Puzzle problem:
