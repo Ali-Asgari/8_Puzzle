@@ -1,5 +1,5 @@
 # 8 Puzzle Solver
-Implementations of different algorithms to solve the 8 Puzzle problem, along with a comparison between them. The 8 Puzzle is a sliding puzzle consisting of a 3x3 grid with eight numbered (1 to 8) tiles and one empty space (zero).
+Python implementations of different algorithms to solve the 8 Puzzle problem, along with a comparison between them. The 8 Puzzle is a sliding puzzle consisting of a 3x3 grid with eight numbered (1 to 8) tiles and one empty space (zero).
 
 ![alt text](./EX1.png)
 
